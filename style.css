@@ -151,8 +151,7 @@ body {
   flex-wrap: wrap;
 }
 .portfolio-item {
-  width: 30%;
-  min-width: 280px;
+  min-width: 300px;
 }
 
 .portfolio-item img {
@@ -279,7 +278,6 @@ body {
   .portfolio-container {
     justify-content: center;
   }
-
   .btn {
     padding: 10px 20px;
   }
